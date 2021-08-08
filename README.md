@@ -11,7 +11,7 @@
   About Me
 </div>
 <div align="center">
-📫 How to reach me: TrippSau@foxmail.com
+📫 How to reach me: TrippSau@gmail.com
 </div>
  <div align="center">
 🌱 Languages and Tools: 
