@@ -8,7 +8,7 @@
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=tripp-sautner&show_icons=true&hide_border=true"> -->
 <div align="center">
-  About Me
+<!--   About Me -->
 </div>
 <div align="center">
 📫 How to reach me: TrippSau@gmail.com
