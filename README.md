@@ -9,7 +9,7 @@
 <!--   About Me -->
 </div>
 <div align="center">
-📫 How to reach me: TrippSau@gmail.com
+📫 How to reach me: Tripp@TrippS.dev
 </div>
 
 
